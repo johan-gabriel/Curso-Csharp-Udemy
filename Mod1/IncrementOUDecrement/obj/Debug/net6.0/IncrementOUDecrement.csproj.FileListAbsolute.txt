@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\bin\Debug\net6.0\IncrementOUDecrement.exe
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\bin\Debug\net6.0\IncrementOUDecrement.deps.json
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\bin\Debug\net6.0\IncrementOUDecrement.runtimeconfig.json
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\bin\Debug\net6.0\IncrementOUDecrement.dll
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\bin\Debug\net6.0\IncrementOUDecrement.pdb
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.dll
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\refint\IncrementOUDecrement.dll
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.pdb
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\IncrementOUDecrement.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\IncrementOUDecrement\obj\Debug\net6.0\ref\IncrementOUDecrement.dll

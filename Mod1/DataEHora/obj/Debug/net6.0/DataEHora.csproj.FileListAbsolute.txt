@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\DataEHora\bin\Debug\net6.0\DataEHora.exe
+F:\DotNET\CSFundamentos1\DataEHora\bin\Debug\net6.0\DataEHora.deps.json
+F:\DotNET\CSFundamentos1\DataEHora\bin\Debug\net6.0\DataEHora.runtimeconfig.json
+F:\DotNET\CSFundamentos1\DataEHora\bin\Debug\net6.0\DataEHora.dll
+F:\DotNET\CSFundamentos1\DataEHora\bin\Debug\net6.0\DataEHora.pdb
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.dll
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\refint\DataEHora.dll
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.pdb
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\DataEHora.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\DataEHora\obj\Debug\net6.0\ref\DataEHora.dll

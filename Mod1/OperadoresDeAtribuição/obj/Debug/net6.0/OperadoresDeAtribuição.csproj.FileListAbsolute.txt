@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net6.0\OperadoresDeAtribuição.exe
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net6.0\OperadoresDeAtribuição.deps.json
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net6.0\OperadoresDeAtribuição.runtimeconfig.json
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net6.0\OperadoresDeAtribuição.dll
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net6.0\OperadoresDeAtribuição.pdb
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.dll
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\refint\OperadoresDeAtribuição.dll
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.pdb
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\OperadoresDeAtribuição.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net6.0\ref\OperadoresDeAtribuição.dll

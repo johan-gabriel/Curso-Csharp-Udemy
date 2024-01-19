@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\Execicios2\bin\Debug\net6.0\Execicios2.exe
+F:\DotNET\CSFundamentos1\Execicios2\bin\Debug\net6.0\Execicios2.deps.json
+F:\DotNET\CSFundamentos1\Execicios2\bin\Debug\net6.0\Execicios2.runtimeconfig.json
+F:\DotNET\CSFundamentos1\Execicios2\bin\Debug\net6.0\Execicios2.dll
+F:\DotNET\CSFundamentos1\Execicios2\bin\Debug\net6.0\Execicios2.pdb
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.dll
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\refint\Execicios2.dll
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.pdb
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\Execicios2.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\Execicios2\obj\Debug\net6.0\ref\Execicios2.dll

@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.exe
+F:\DotNET\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.deps.json
+F:\DotNET\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+F:\DotNET\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.dll
+F:\DotNET\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.pdb
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.dll
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\refint\SaidaDados.dll
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.pdb
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\SaidaDados\obj\Debug\net6.0\ref\SaidaDados.dll

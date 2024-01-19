@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\ExesFase1\bin\Debug\net6.0\ExesFase1.exe
+F:\DotNET\CSFundamentos1\ExesFase1\bin\Debug\net6.0\ExesFase1.deps.json
+F:\DotNET\CSFundamentos1\ExesFase1\bin\Debug\net6.0\ExesFase1.runtimeconfig.json
+F:\DotNET\CSFundamentos1\ExesFase1\bin\Debug\net6.0\ExesFase1.dll
+F:\DotNET\CSFundamentos1\ExesFase1\bin\Debug\net6.0\ExesFase1.pdb
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.dll
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\refint\ExesFase1.dll
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.pdb
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ExesFase1.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\ExesFase1\obj\Debug\net6.0\ref\ExesFase1.dll

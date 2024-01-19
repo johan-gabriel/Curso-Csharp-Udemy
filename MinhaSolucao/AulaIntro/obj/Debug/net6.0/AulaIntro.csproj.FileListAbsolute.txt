@@ -1,0 +1,15 @@
+F:\DotNET\MinhaSolucao\AulaIntro\bin\Debug\net6.0\AulaIntro.exe
+F:\DotNET\MinhaSolucao\AulaIntro\bin\Debug\net6.0\AulaIntro.deps.json
+F:\DotNET\MinhaSolucao\AulaIntro\bin\Debug\net6.0\AulaIntro.runtimeconfig.json
+F:\DotNET\MinhaSolucao\AulaIntro\bin\Debug\net6.0\AulaIntro.dll
+F:\DotNET\MinhaSolucao\AulaIntro\bin\Debug\net6.0\AulaIntro.pdb
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.csproj.AssemblyReference.cache
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.AssemblyInfoInputs.cache
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.AssemblyInfo.cs
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.csproj.CoreCompileInputs.cache
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.dll
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\refint\AulaIntro.dll
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.pdb
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\AulaIntro.genruntimeconfig.cache
+F:\DotNET\MinhaSolucao\AulaIntro\obj\Debug\net6.0\ref\AulaIntro.dll

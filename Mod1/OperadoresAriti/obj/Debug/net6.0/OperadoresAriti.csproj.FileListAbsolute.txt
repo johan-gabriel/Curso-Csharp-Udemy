@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\OperadoresAriti\bin\Debug\net6.0\OperadoresAriti.exe
+F:\DotNET\CSFundamentos1\OperadoresAriti\bin\Debug\net6.0\OperadoresAriti.deps.json
+F:\DotNET\CSFundamentos1\OperadoresAriti\bin\Debug\net6.0\OperadoresAriti.runtimeconfig.json
+F:\DotNET\CSFundamentos1\OperadoresAriti\bin\Debug\net6.0\OperadoresAriti.dll
+F:\DotNET\CSFundamentos1\OperadoresAriti\bin\Debug\net6.0\OperadoresAriti.pdb
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.dll
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\refint\OperadoresAriti.dll
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.pdb
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\OperadoresAriti.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\OperadoresAriti\obj\Debug\net6.0\ref\OperadoresAriti.dll

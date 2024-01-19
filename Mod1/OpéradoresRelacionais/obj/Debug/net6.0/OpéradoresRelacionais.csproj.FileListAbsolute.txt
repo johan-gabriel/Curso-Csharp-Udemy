@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\bin\Debug\net6.0\OpéradoresRelacionais.exe
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\bin\Debug\net6.0\OpéradoresRelacionais.deps.json
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\bin\Debug\net6.0\OpéradoresRelacionais.runtimeconfig.json
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\bin\Debug\net6.0\OpéradoresRelacionais.dll
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\bin\Debug\net6.0\OpéradoresRelacionais.pdb
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.dll
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\refint\OpéradoresRelacionais.dll
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.pdb
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\OpéradoresRelacionais.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\OpéradoresRelacionais\obj\Debug\net6.0\ref\OpéradoresRelacionais.dll

@@ -1,0 +1,15 @@
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\bin\Debug\net6.0\OperadoresUnBiTer.exe
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\bin\Debug\net6.0\OperadoresUnBiTer.deps.json
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\bin\Debug\net6.0\OperadoresUnBiTer.runtimeconfig.json
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\bin\Debug\net6.0\OperadoresUnBiTer.dll
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\bin\Debug\net6.0\OperadoresUnBiTer.pdb
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.csproj.AssemblyReference.cache
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.AssemblyInfoInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.AssemblyInfo.cs
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.csproj.CoreCompileInputs.cache
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.dll
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\refint\OperadoresUnBiTer.dll
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.pdb
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\OperadoresUnBiTer.genruntimeconfig.cache
+F:\DotNET\CSFundamentos1\OperadoresUnBiTer\obj\Debug\net6.0\ref\OperadoresUnBiTer.dll
