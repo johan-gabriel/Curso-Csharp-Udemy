@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\bin\Debug\net6.0\DataEHora.exe
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\bin\Debug\net6.0\DataEHora.deps.json
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\bin\Debug\net6.0\DataEHora.runtimeconfig.json
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\bin\Debug\net6.0\DataEHora.dll
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\bin\Debug\net6.0\DataEHora.pdb
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.AssemblyInfo.cs
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.dll
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\refint\DataEHora.dll
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.pdb
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\DataEHora.genruntimeconfig.cache
+C:\Users\User\source\repos\DadosReferenciados\DataEHora\obj\Debug\net6.0\ref\DataEHora.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\bin\Debug\net6.0\NullableTipes.exe
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\bin\Debug\net6.0\NullableTipes.deps.json
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\bin\Debug\net6.0\NullableTipes.runtimeconfig.json
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\bin\Debug\net6.0\NullableTipes.dll
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\bin\Debug\net6.0\NullableTipes.pdb
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.AssemblyInfo.cs
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.dll
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\refint\NullableTipes.dll
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.pdb
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\NullableTipes.genruntimeconfig.cache
+C:\Users\User\source\repos\DadosReferenciados\NullableTipes\obj\Debug\net6.0\ref\NullableTipes.dll
