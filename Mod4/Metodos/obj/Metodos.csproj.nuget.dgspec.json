@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\Metodos\\Metodos.csproj": {}
+    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\Metodos\\Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\Metodos\\Metodos.csproj": {
+    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\Metodos\\Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\Metodos\\Metodos.csproj",
+        "projectUniqueName": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\Metodos\\Metodos.csproj",
         "projectName": "Metodos",
-        "projectPath": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\Metodos\\Metodos.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\Metodos\\obj\\",
+        "projectPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\Metodos\\Metodos.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTipes", "NullableTi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseObejetos", "ClasseObejetos\ClasseObejetos.csproj", "{00123D27-941E-45BB-B3D7-9425338E6DBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{D69E0BE3-4FFE-4466-8ECE-AC159363A060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{D69E0BE3-4FFE-4466-8ECE-AC159363A060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioClassObj", "ExercicioClassObj\ExercicioClassObj.csproj", "{CAF47C6F-E162-47DB-A8BF-B424C60D5E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAvanc", "MetodosAvanc\MetodosAvanc.csproj", "{CEE76295-059F-4C61-8890-1F170A8D73B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{D69E0BE3-4FFE-4466-8ECE-AC159363A060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69E0BE3-4FFE-4466-8ECE-AC159363A060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69E0BE3-4FFE-4466-8ECE-AC159363A060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF47C6F-E162-47DB-A8BF-B424C60D5E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF47C6F-E162-47DB-A8BF-B424C60D5E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF47C6F-E162-47DB-A8BF-B424C60D5E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF47C6F-E162-47DB-A8BF-B424C60D5E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE76295-059F-4C61-8890-1F170A8D73B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE76295-059F-4C61-8890-1F170A8D73B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE76295-059F-4C61-8890-1F170A8D73B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE76295-059F-4C61-8890-1F170A8D73B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

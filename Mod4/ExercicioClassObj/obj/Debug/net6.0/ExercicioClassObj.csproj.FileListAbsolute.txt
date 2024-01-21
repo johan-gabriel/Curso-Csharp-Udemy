@@ -1,0 +1,15 @@
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\bin\Debug\net6.0\ExercicioClassObj.exe
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\bin\Debug\net6.0\ExercicioClassObj.deps.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\bin\Debug\net6.0\ExercicioClassObj.runtimeconfig.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\bin\Debug\net6.0\ExercicioClassObj.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\bin\Debug\net6.0\ExercicioClassObj.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.AssemblyInfoInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.AssemblyInfo.cs
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.csproj.CoreCompileInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.sourcelink.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\refint\ExercicioClassObj.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ExercicioClassObj.genruntimeconfig.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\ExercicioClassObj\obj\Debug\net6.0\ref\ExercicioClassObj.dll

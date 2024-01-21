@@ -1,0 +1,15 @@
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.exe
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.deps.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.runtimeconfig.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.AssemblyInfoInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.AssemblyInfo.cs
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.csproj.CoreCompileInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.sourcelink.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\refint\MetodosAvanc.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.genruntimeconfig.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\ref\MetodosAvanc.dll

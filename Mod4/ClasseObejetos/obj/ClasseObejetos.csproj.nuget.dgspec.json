@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\ClasseObejetos\\ClasseObejetos.csproj": {}
+    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\ClasseObejetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\ClasseObejetos\\ClasseObejetos.csproj": {
+    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\ClasseObejetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\ClasseObejetos\\ClasseObejetos.csproj",
+        "projectUniqueName": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\ClasseObejetos.csproj",
         "projectName": "ClasseObejetos",
-        "projectPath": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\ClasseObejetos\\ClasseObejetos.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\CursoC#\\DadosReferenciados\\ClasseObejetos\\obj\\",
+        "projectPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\ClasseObejetos.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

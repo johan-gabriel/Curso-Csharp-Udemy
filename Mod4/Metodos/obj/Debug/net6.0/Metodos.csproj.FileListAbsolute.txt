@@ -26,3 +26,18 @@ C:\Users\User\Documents\CursoC#\DadosReferenciados\Metodos\obj\Debug\net6.0\refi
 C:\Users\User\Documents\CursoC#\DadosReferenciados\Metodos\obj\Debug\net6.0\Metodos.pdb
 C:\Users\User\Documents\CursoC#\DadosReferenciados\Metodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache
 C:\Users\User\Documents\CursoC#\DadosReferenciados\Metodos\obj\Debug\net6.0\ref\Metodos.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\bin\Debug\net6.0\Metodos.exe
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\bin\Debug\net6.0\Metodos.deps.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\bin\Debug\net6.0\Metodos.runtimeconfig.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\bin\Debug\net6.0\Metodos.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\bin\Debug\net6.0\Metodos.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfoInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfo.cs
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.csproj.CoreCompileInputs.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.sourcelink.json
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\refint\Metodos.dll
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.pdb
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache
+G:\DotNet aula\Curso-Csharp-Udemy\Mod4\Metodos\obj\Debug\net6.0\ref\Metodos.dll
