@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj": {}
+    "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj": {}
   },
   "projects": {
-    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj": {
+    "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj",
         "projectName": "MetodosAvanc",
-        "projectPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj",
-        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\MetodosAvanc.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\MetodosAvanc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

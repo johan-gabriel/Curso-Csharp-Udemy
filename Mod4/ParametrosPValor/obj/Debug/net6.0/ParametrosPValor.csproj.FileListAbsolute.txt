@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\bin\Debug\net6.0\ParametrosPValor.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\bin\Debug\net6.0\ParametrosPValor.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\bin\Debug\net6.0\ParametrosPValor.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\bin\Debug\net6.0\ParametrosPValor.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\bin\Debug\net6.0\ParametrosPValor.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\refint\ParametrosPValor.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ParametrosPValor.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ParametrosPValor\obj\Debug\net6.0\ref\ParametrosPValor.dll

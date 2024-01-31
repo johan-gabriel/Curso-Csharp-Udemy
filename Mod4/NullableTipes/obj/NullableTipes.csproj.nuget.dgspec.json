@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj": {}
+    "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj": {}
   },
   "projects": {
-    "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj": {
+    "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj",
         "projectName": "NullableTipes",
-        "projectPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj",
-        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "G:\\DotNet aula\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\NullableTipes.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\NullableTipes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

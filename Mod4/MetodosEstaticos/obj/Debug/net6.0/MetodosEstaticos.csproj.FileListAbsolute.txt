@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\bin\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\refint\MetodosEstaticos.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\MetodosEstaticos.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosEstaticos\obj\Debug\net6.0\ref\MetodosEstaticos.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\bin\Debug\net6.0\ConstrutorStatic.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\bin\Debug\net6.0\ConstrutorStatic.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\bin\Debug\net6.0\ConstrutorStatic.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\bin\Debug\net6.0\ConstrutorStatic.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\bin\Debug\net6.0\ConstrutorStatic.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\refint\ConstrutorStatic.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ConstrutorStatic.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ConstrutorStatic\obj\Debug\net6.0\ref\ConstrutorStatic.dll

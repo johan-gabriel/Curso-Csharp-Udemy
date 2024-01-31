@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\bin\Debug\net6.0\ExeFase5[.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\bin\Debug\net6.0\ExeFase5[.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\bin\Debug\net6.0\ExeFase5[.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\bin\Debug\net6.0\ExeFase5[.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\bin\Debug\net6.0\ExeFase5[.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\refint\ExeFase5[.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ExeFase5[.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase5[\obj\Debug\net6.0\ref\ExeFase5[.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ParametropRef/1.0.0": {
+        "runtime": {
+          "ParametropRef.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParametropRef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\bin\Debug\net6.0\chaveOut.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\bin\Debug\net6.0\chaveOut.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\bin\Debug\net6.0\chaveOut.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\bin\Debug\net6.0\chaveOut.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\bin\Debug\net6.0\chaveOut.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\refint\chaveOut.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\chaveOut.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\chaveOut\obj\Debug\net6.0\ref\chaveOut.dll

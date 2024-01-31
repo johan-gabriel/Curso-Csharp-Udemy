@@ -13,3 +13,18 @@ G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\refint\Meto
 G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.pdb
 G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.genruntimeconfig.cache
 G:\DotNet aula\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\ref\MetodosAvanc.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\bin\Debug\net6.0\MetodosAvanc.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\refint\MetodosAvanc.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\MetodosAvanc.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\MetodosAvanc\obj\Debug\net6.0\ref\MetodosAvanc.dll
