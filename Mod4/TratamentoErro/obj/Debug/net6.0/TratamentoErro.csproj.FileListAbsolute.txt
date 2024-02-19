@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\bin\Debug\net6.0\TratamentoErro.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\bin\Debug\net6.0\TratamentoErro.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\bin\Debug\net6.0\TratamentoErro.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\bin\Debug\net6.0\TratamentoErro.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\bin\Debug\net6.0\TratamentoErro.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\refint\TratamentoErro.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\TratamentoErro.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\TratamentoErro\obj\Debug\net6.0\ref\TratamentoErro.dll

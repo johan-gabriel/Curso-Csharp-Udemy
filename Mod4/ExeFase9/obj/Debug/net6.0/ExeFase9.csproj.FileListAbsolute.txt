@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\bin\Debug\net6.0\ExeFase9.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\bin\Debug\net6.0\ExeFase9.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\bin\Debug\net6.0\ExeFase9.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\bin\Debug\net6.0\ExeFase9.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\bin\Debug\net6.0\ExeFase9.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\refint\ExeFase9.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ExeFase9.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod4\ExeFase9\obj\Debug\net6.0\ref\ExeFase9.dll

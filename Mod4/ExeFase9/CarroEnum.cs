@@ -26,8 +26,8 @@ namespace ExeFase9
         }
 
         public void ExibirInfo()
-        {
-            Console.WriteLine(Cor);
+        {                                  // Exibe o valor no Enum
+            Console.WriteLine($"{Cor}  = {(Cores)Cor}");
         }
     }
 }
