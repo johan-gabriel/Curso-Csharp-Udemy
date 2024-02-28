@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\bin\Debug\net6.0\ExeArrays.exe
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\bin\Debug\net6.0\ExeArrays.deps.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\bin\Debug\net6.0\ExeArrays.runtimeconfig.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\bin\Debug\net6.0\ExeArrays.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\bin\Debug\net6.0\ExeArrays.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.AssemblyInfo.cs
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.sourcelink.json
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\refint\ExeArrays.dll
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.pdb
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ExeArrays.genruntimeconfig.cache
+C:\Users\User\Documents\CursoC#\Curso-Csharp-Udemy\Mod5\ExeArrays\obj\Debug\net6.0\ref\ExeArrays.dll
