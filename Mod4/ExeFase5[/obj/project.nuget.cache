@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "adZl9jPx1N3eH1xyzcrt8zl1digRzzpBT9r8dAGfOCDjcpEF9x+PmGvHkUOD7ei+NTbJDnoLWLpxeAdu9gRPwQ==",
+  "dgSpecHash": "0EBZMN8tZko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod4\\ExeFase5[\\ExeFase5[.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\ExeFase5[\\ExeFase5[.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

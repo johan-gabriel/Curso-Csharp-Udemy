@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5", "Mod5\Mod5.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayI", "ArrayI\ArrayI.csproj", "{98A228A0-A397-4680-8AC4-06AF0BFC85A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseArray", "ClasseArray\ClasseArray.csproj", "{65EB7734-9531-47C8-B530-3A79A3BF6026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseArray", "ClasseArray\ClasseArray.csproj", "{65EB7734-9531-47C8-B530-3A79A3BF6026}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexadores", "Indexadores\Indexadores.csproj", "{A8B70B0F-97C7-4D71-8869-3A0A580F22E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{825248BE-5054-4E3A-8ABA-06C36BBC5947}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{65EB7734-9531-47C8-B530-3A79A3BF6026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65EB7734-9531-47C8-B530-3A79A3BF6026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65EB7734-9531-47C8-B530-3A79A3BF6026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B70B0F-97C7-4D71-8869-3A0A580F22E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B70B0F-97C7-4D71-8869-3A0A580F22E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B70B0F-97C7-4D71-8869-3A0A580F22E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B70B0F-97C7-4D71-8869-3A0A580F22E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825248BE-5054-4E3A-8ABA-06C36BBC5947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825248BE-5054-4E3A-8ABA-06C36BBC5947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825248BE-5054-4E3A-8ABA-06C36BBC5947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825248BE-5054-4E3A-8ABA-06C36BBC5947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

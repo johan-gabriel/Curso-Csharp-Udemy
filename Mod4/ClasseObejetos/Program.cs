@@ -1,17 +1,17 @@
 ﻿Console.WriteLine("Hello, World!");
 
 int x = 100;
-
+// criando objetos da classe pessoa
 Pessoa p1 = new Pessoa();
-p1.nome = "Johann";
+p1.nome = "Johann";// o ponto eu acesso o atributo do objeto!
 p1.idade = 27;
 p1.sexo = "Macho alpha";
 
 Console.WriteLine($"{p1.nome}, {p1.idade} , {p1.sexo}");
 
 Pessoa p2 = new Pessoa();
-p1.nome = "Cah";
-p1.idade = 25;
+p1.nome = "Kivia";
+p1.idade = 28;
 p1.sexo = "Gata";
 
 Console.WriteLine($"{p2.nome}, {p2.idade} , {p2.sexo}");
@@ -22,7 +22,8 @@ Console.ReadKey();
 
 class Pessoa
 {
-    public string? nome;
+    // Atributos da classe
+    public string? nome; // A interrogação serve para ? = nullableType. Ou seja tipo de variável anulável
     public int idade;
     public string? sexo;
 }

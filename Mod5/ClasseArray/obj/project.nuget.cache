@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EduYdrg/DOj5TrG9qU7Ik61N0QF4AZNDLQV2Cnl4cKujD/pGWPyFeYS9twz/ffORLhJ6Dw7ZHpTe5F8aI4KVAg==",
+  "dgSpecHash": "7aKaZlcvWUk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Documents\\CursoC#\\Curso-Csharp-Udemy\\Mod5\\ClasseArray\\ClasseArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod5\\ClasseArray\\ClasseArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00123D27-941E-45BB-B3D7-9425338E6DBF}|ClasseObejetos\\ClasseObejetos.csproj|f:\\curso c#\\curso-csharp-udemy\\mod4\\classeobejetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00123D27-941E-45BB-B3D7-9425338E6DBF}|ClasseObejetos\\ClasseObejetos.csproj|solutionrelative:classeobejetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A610F5C1-E0AD-469F-8BD4-89FB52E602FB}|Argumentos\\Argumentos.csproj|f:\\curso c#\\curso-csharp-udemy\\mod4\\argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A610F5C1-E0AD-469F-8BD4-89FB52E602FB}|Argumentos\\Argumentos.csproj|solutionrelative:argumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEDD9B1-32E7-4B84-B0C4-BC614EBD99FE}|TratamentoErro\\TratamentoErro.csproj|f:\\curso c#\\curso-csharp-udemy\\mod4\\tratamentoerro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEDD9B1-32E7-4B84-B0C4-BC614EBD99FE}|TratamentoErro\\TratamentoErro.csproj|solutionrelative:tratamentoerro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BEA3A4-9C5E-445E-965A-10CDD7CB523D}|ModifyAccses\\ModifyAccses.csproj|f:\\curso c#\\curso-csharp-udemy\\mod4\\modifyaccses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BEA3A4-9C5E-445E-965A-10CDD7CB523D}|ModifyAccses\\ModifyAccses.csproj|solutionrelative:modifyaccses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseObejetos\\Program.cs",
+              "ToolTip": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\ClasseObejetos\\Program.cs",
+              "RelativeToolTip": "ClasseObejetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:09:46.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\Argumentos\\Program.cs",
+              "RelativeDocumentMoniker": "Argumentos\\Program.cs",
+              "ToolTip": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\Argumentos\\Program.cs",
+              "RelativeToolTip": "Argumentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:08:46.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\TratamentoErro\\Program.cs",
+              "RelativeDocumentMoniker": "TratamentoErro\\Program.cs",
+              "ToolTip": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\TratamentoErro\\Program.cs",
+              "RelativeToolTip": "TratamentoErro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:08:06.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\ModifyAccses\\Program.cs",
+              "RelativeDocumentMoniker": "ModifyAccses\\Program.cs",
+              "ToolTip": "F:\\Curso C#\\Curso-Csharp-Udemy\\Mod4\\ModifyAccses\\Program.cs",
+              "RelativeToolTip": "ModifyAccses\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:08:06.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
